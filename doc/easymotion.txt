@@ -840,7 +840,7 @@ Default:0
 ------------------------------------------------------------------------------
 Smartsign                                                *EasyMotion_smartsign*
                                                 *g:EasyMotion_use_smartsign_us*
-                                                *g:EasyMotion_use_smartsign_ja*
+                                                *g:EasyMotion_use_smartsign_jp*
 
 Matching signs target keys by smartcase like. E.g. type '1' and it matches
 both '1' and '!' in Find motion.
